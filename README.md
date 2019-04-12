@@ -22,4 +22,6 @@ and much **more**!
 | Iphone 6s+  | Secondary 5 - *now* |
 
 ## commands (Screenshot)
-
+![screenshot1](https://raw.githubusercontent.com/csci3250-2019/student-1155108869/master/screenshot1.PNG)
+![screenshot2](https://raw.githubusercontent.com/csci3250-2019/student-1155108869/master/screenshot2.PNG)
+![screenshot3](https://raw.githubusercontent.com/csci3250-2019/student-1155108869/master/screenshot3.PNG)
