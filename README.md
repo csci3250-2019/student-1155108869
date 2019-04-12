@@ -3,8 +3,8 @@
 I am a new *developer*!
 
 My hobby is:
-..* playing computer games
-..* reading
+* playing computer games
+* reading
 and much **more**!
 
 ### To-Do List
